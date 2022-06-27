@@ -13,7 +13,7 @@ math: true
 
 At some point, I think it's safe to say that every individual studying digital signal processing wondered how a [digital signal] (which is discrete/[sample-based]) was able to accurately represent a sound wave which is continuous.
 
-It turns out that we can **perfectly** reconstruct our continuous [analog] signal using **sinc interpolation**. \\
+It turns out that, apart from the quantization errors introduced during the sampling process, we can accurately reconstruct our continuous [analog] signal using **sinc interpolation**. \\
 Here is the sinc function:
 
 $$
@@ -26,7 +26,7 @@ $$
 I made a graph[^1] that shows the original signal (dark grey), the interpolated signal (blue), as well as the sinc functions centered and scaled at every sample (random colours). 
 ![](/assets/AudioProgrammingAndDSP/Sinc_Interpolation.png)
 
-If we interpolate using continuous sinc functions centered and scaled at every sample of our digital signal and then sum everything (this is also known as [convolution](https://www.youtube.com/watch?v=QmcoPYUfbJ8)), we get a **perfect** reconstruction of our continuous signal. \
+If we interpolate using continuous sinc functions centered and scaled at every sample of our digital signal and then sum everything (this is also known as [convolution](https://www.youtube.com/watch?v=QmcoPYUfbJ8)), we get an accurate reconstruction of our continuous signal. \
 This property is useful if we want to [upsample](https://en.wikipedia.org/wiki/Upsampling) (like we did in the example) and also when converting to the analog domain, which works with continuous signals.
 
 ---
