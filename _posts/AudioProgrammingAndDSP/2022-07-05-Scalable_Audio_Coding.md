@@ -3,7 +3,7 @@ title: Scalable Audio Coding
 date: 2022-07-05 13:30:00 +0100
 categories: [Audio Programming and DSP]
 tags: [dsp, article]
-math: true
+# math: true
 ---
 
 I wrote an article for my degree that I'd like to post here. It is about Scalable Audio Coding which is a subset of Audio Coding. Scalable audio formats allow truncation to happen in order to reduce precision. This reduction is expected to result in worse quality but a smaller file size.
