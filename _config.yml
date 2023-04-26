@@ -18,7 +18,7 @@ timezone: Europe/Lisbon
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Luís M. R. Guimarães                          # the main title
+title: Luís M. R. Guimarães # the main title
 
 tagline: Getting Started with Audio Programming  # it will display as the sub-title
 
@@ -153,7 +153,7 @@ defaults:
       comments: false
   - scope:
       path: ""
-      type: tabs             # see `site.collections`
+      type: tabs        # see `site.collections`
     values:
       layout: page
       permalink: /:title/
