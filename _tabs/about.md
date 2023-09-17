@@ -8,3 +8,5 @@ order: 4
 {: .prompt-tip }
 
 I'm a Computer Science graduate who enjoys learning audio programming/audio signal processing in my free time. I find that using code and math to shape sound is very satisfying.
+
+[LinkTree](https://linktr.ee/luisguimaraes)
