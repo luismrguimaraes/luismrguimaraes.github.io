@@ -184,6 +184,7 @@ exclude:
   - docs
   - tools
   - README.md
+  - CHANGELOG.md
   - LICENSE
   - rollup.config.js
   - package*.json
