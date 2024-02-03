@@ -10,4 +10,4 @@ I wrote an paper for my degree that I'd like to post here. It is about Scalable 
 
 Audio coding (or audio compression) is also briefly explained in the paper and it should be somewhat informative for people who have not heard about this topic before (like I hadn't, before I started researching about it). 
 
-[Download](../../assets/AudioProgrammingAndDSP/Scalable_Audio_Coding_Article_v2.pdf)
+[Download](../../assets/AudioProgrammingAndDSP/Scalable_Audio_Coding_Paper_v2.pdf)
