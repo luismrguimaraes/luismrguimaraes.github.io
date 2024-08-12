@@ -9,4 +9,6 @@ I'm making this post as means of celebrating the fact that the website *seems* t
 
 As you can see at the bottom right of the website, it is powered by [Jekyll](https://jekyllrb.com/) and uses the [Chirpy]() theme so it's not like I did the difficult part, that's on [these](https://github.com/jekyll/jekyll/graphs/contributors) and [these](https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors) individuals. But it still took some learning to get it working and that's why I'm celebrating.
 
-Since I don't drink alcohol and I'm not thirsty right now, instead of drinking, I propose we appreciate this simplistic yet wonderful [picture](/assets/img/oceanPic.jpg).
+Since I don't drink alcohol and I'm not thirsty right now, instead of drinking, I propose we appreciate this simplistic yet wonderful [picture](/assets/img/oceanPic.jpg):
+
+![picture](/assets/img/oceanPic.jpg)
