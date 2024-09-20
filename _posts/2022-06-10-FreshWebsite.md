@@ -1,7 +1,7 @@
 ---
 title: Fresh Website
 date: 2022-06-10 15:35:00 +0100
-categories: []
+categories: [Etc]
 tags: []
 ---
 
