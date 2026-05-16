@@ -12,3 +12,6 @@ platforms :windows, :jruby do
 end
 
 gem "wdm", "~> 0.2.0", :platforms => [:windows]
+
+# to work with macOS 13
+gem "sass-embedded", "1.93"
